@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="First1"
+        android:id="@+id/FirstFragment"
+         android:icon="@drawable/ic_baseline_access_time_filled_24"
+        />
+    <item android:title="seconde2"
+        android:id="@+id/ProfileFragment"
+         android:icon="@drawable/ic_baseline_add_task_24"
+        />
+</menu>
